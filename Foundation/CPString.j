@@ -189,7 +189,7 @@ var CPStringRegexSpecialCharacters = [
 // Combining strings
 
 /*!
-    Returns a string made by appending to the reciever a string constructed from a given format
+    Returns a string made by appending to the receiver a string constructed from a given format
     string and the floowing arguments
     @param format the format string in printf-style.
     @return the initialized CPString
